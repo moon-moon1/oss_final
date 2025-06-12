@@ -28,12 +28,14 @@ Python 3.10 이상 필요
 
 ```bash
 pip install flask
+```
 
 3. 실행 방법
 서버 실행:
 
 ```bash
 python server.py
+```
 웹 브라우저에서 http://localhost:5000 접속
 (Edge 브라우저 권장)
 
