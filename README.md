@@ -39,6 +39,7 @@ python server.py
 웹 브라우저에서 [http://localhost:5000](http://localhost:8000/index.html) 접속
 (Edge 브라우저 권장)
 
+
 4. 주요 파일 설명
 index.html: 사용자용 웹페이지
 
