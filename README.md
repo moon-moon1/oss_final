@@ -19,6 +19,7 @@
 ```bash
 git clone https://github.com/moon-moon1/oss_final.git
 cd oss_final
+```
 
 2. 환경 설정
 Python 3.10 이상 필요
